@@ -10,13 +10,16 @@ package OOPS;
 
 //ABSTRACTION-Only showing the areas which are required and hiding the other non-important areas
 public class rectangle3 extends shape {
-    private int area; //member variable
+    private int length;
+    private int breadth;//member variable
 
 
 
     //CONSTRUCTORS-constructs objects and is executed first.
     public rectangle3 (int length , int breadth){ //constructor name is always same as class name
-     this.area = length * breadth;
+        super();//calls parent constructor-this is called constructor chaining
+        this.length=length;
+        this.breadth=breadth;
         System.out.println("I am inside the constructor of rectangle");
     }
 
@@ -26,7 +29,7 @@ public class rectangle3 extends shape {
     }
 
     public void printArea(){
-        System.out.println("The area of the rectangle is: " + area);
+        System.out.println("The area of the rectangle is: " + (length * breadth));
 
     }
 }

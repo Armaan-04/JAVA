@@ -1,6 +1,10 @@
 package OOPS;
 
 public class shape {
+
+    public shape() {
+        System.out.println("Inside shape constructor.");
+    }
     public void draw(){
         System.out.println("Drawing a shape.");
     }
