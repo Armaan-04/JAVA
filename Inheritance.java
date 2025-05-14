@@ -1,6 +1,7 @@
 import OOPS.circle;
 import OOPS.rectangle3;
 import OOPS.shape;
+import OOPS.shape2;
 
 public class Inheritance {
     public static void main(String[] args){
@@ -10,7 +11,7 @@ public class Inheritance {
         rect.printArea();*/
 
 
-        shape shape = new rectangle3 (4,5);
+        shape shape = new rectangle3(5,2);
         shape.draw();
         shape.printArea();
     }

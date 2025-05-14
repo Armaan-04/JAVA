@@ -9,6 +9,8 @@ package OOPS;
 
 
 //ABSTRACTION-Only showing the areas which are required and hiding the other non-important areas
+
+//public class implements shape2{ (in case of interface)
 public class rectangle3 extends shape {
     private int length;
     private int breadth;//member variable

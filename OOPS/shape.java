@@ -1,6 +1,7 @@
 package OOPS;
 
-public class shape {
+
+public abstract class shape {//abstract means no one can create an object in this class , this class is used for inheritance.
 
     public shape() {
         System.out.println("Inside shape constructor.");
@@ -9,8 +10,5 @@ public class shape {
         System.out.println("Drawing a shape.");
     }
 
-    public void printArea(){
-        System.out.println("The area of the circle is unknown");
-
-    }
+    public abstract void printArea(); //abstract because no definition.
 }
