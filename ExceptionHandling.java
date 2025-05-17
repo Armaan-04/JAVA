@@ -3,7 +3,9 @@ import java.util.Scanner;
 public class ExceptionHandling {
     public static void main(String[] args){
         Scanner scanner = new Scanner (System.in);
+        System.out.println("Please enter the dividend: ");
         int a = scanner.nextInt();
+        System.out.println("Please enter the divisor: ");
         int b = scanner.nextInt();
         try{
             System.out.println("division is: " + (a/b));
