@@ -1,4 +1,4 @@
-import OOPS.rectangle3;
+import ClassFolder.rectangle3;
 
 public class Abstraction {
     public static void main(String[] args)  {

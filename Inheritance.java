@@ -1,7 +1,5 @@
-import OOPS.circle;
-import OOPS.rectangle3;
-import OOPS.shape;
-import OOPS.shape2;
+import ClassFolder.rectangle3;
+import ClassFolder.shape;
 
 public class Inheritance {
     public static void main(String[] args){

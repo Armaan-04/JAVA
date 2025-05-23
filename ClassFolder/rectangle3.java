@@ -1,4 +1,4 @@
-package OOPS;
+package ClassFolder;
 
 /* Types of access modifiers-used in ABSTRACTION
  *public-anyone can use once defined

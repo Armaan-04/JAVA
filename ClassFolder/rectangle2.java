@@ -1,4 +1,5 @@
-package OOPS;
+package ClassFolder;
+
 
 
                  //ENCAPSULATION-encapsules methods under itself

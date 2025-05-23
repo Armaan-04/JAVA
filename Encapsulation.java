@@ -1,4 +1,4 @@
-import OOPS.Rectangle;
+import ClassFolder.Rectangle;
 
 public class Encapsulation {
     public static void main(String[] args)  {
