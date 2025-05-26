@@ -11,12 +11,27 @@ public class MaxnMin {
     }
 
     public static int min(int[] numArr){
-        System.out.println("Min of the array is: ");
-        return 0;
+
+        int min = Integer.MAX_VALUE ;
+        int i = 0;
+        while (i < numArr.length){
+            if( numArr[i] < min){
+                min = numArr[i];
+            }
+            i++;
+        }
+        return min;
     }
 
     public static int max(int[] numArr){
-        System.out.println("Maxof the array is: ");
-        return 0;
+            int max = Integer.MIN_VALUE;
+            int i = 0;
+            while(i<numArr.length){
+                if(max < numArr[i]){
+                    max = numArr[i];
+                }
+                i++;
+            }
+        return max;
     }
 }
