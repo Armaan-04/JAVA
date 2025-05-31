@@ -6,7 +6,7 @@ public class SimpleCalculator {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter your first number: ");
         int num1 = input.nextInt();
-        System.out.println("Enter your seocnd number: ");
+        System.out.println("Enter your second number: ");
         int num2 = input.nextInt();
         System.out.println("Now enter the operation: ");
         String operation = input.next();
