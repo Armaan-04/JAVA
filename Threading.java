@@ -12,7 +12,7 @@ public class Threading { //Threading is used for multiple sequences of execution
         } catch( InterruptedException e){
             System.out.println("Exception came in threading ");
         }
-        System.out.println("Main program ends");
+        System.out.println("Main program ends here");
     }
 }
 
