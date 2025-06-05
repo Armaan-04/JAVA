@@ -1,6 +1,6 @@
 package Codes.Intermediate;
 
-public class ConcatenateStrings {
+public class ConcatenateStrings{
 
     public static void main(String[] args) {
         System.out.println(concatenate("Armaan"));
