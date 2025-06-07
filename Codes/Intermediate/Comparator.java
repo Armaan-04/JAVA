@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Comparator {
     public static void main(String[] args) {
-        List<String> list = Arrays.asList("Bear" , "Ant" , "Zebra" , "Elephant"); //Arrays.asList is used to make Strings
+        List<String> list = Arrays.asList("Bear" , "Ant" , "Zebra" , "Eleph ant"); //Arrays.asList is used to make Strings
         System.out.println(list);
         SortInDescending(list);
         System.out.println(list);
