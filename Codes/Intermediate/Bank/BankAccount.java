@@ -5,9 +5,9 @@ public class BankAccount {
     private String accountHolderName;
     private double balance;
 
-    public BankAccount (String accountNumber , String accountHolderName ){
-        this.accountNumber=accountNumber;
-        this.accountHolderName=accountHolderName;
+    public BankAccount (String accountNumber , String accountHolderName ) {
+        this.accountNumber = accountNumber;
+        this.accountHolderName = accountHolderName;
 
     }
 
