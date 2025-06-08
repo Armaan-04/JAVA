@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Project1{
+public class Practice1 {
     public static void main(String[] args) {
 
     // s = u * t + 1/2 *a *t *t
