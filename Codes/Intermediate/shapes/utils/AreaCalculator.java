@@ -3,7 +3,7 @@ import Codes.Intermediate.shapes.geometry.Circle;
 import Codes.Intermediate.shapes.geometry.Rectangle;
 
 public class AreaCalculator {
-    public static void main(String[] args) {
+    public static void main(String[] args){
         Circle cir = new Circle(5.5);
         Rectangle rect = new Rectangle(5,4);
 
