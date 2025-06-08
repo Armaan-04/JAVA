@@ -12,7 +12,7 @@ public class Employee {
     }
 
     String getEmployeeDetails(){
-        return "Employee details:  Name: " + name +  ", Age: " + age + ", Salary: " +salary;
+        return "Employee details:  Name: " + name +  " , Age: " + age + ", Salary: " +salary;
     }
 
     public String getName() {
