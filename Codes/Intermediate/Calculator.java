@@ -13,7 +13,7 @@ public class Calculator {
         return first + second;
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args){
         Calculator calc = new Calculator();
         System.out.println(calc.add(5,6));
         System.out.println(calc.add(2,4,7));
