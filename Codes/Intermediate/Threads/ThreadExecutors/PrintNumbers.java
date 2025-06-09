@@ -1,4 +1,4 @@
-package Codes.Intermediate.Threads.Executors;
+package Codes.Intermediate.Threads.ThreadExecutors;
 
 public class PrintNumbers  implements Runnable {
     @Override

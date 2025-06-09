@@ -1,4 +1,4 @@
-package Codes.Intermediate.Threads.Executors;
+package Codes.Intermediate.Threads.ThreadExecutors;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ExecutorService;
 
