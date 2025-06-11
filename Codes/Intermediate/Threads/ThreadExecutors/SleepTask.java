@@ -14,7 +14,7 @@ public class SleepTask implements Runnable{
     }
 
     private int getRandom(){
-        double random = Math.random() * 5 + 1; //random generates a no. b/w 0 and 1...+1 is to include 1 as well coz it'll include 0 but not 1 at first.
+        double random = Math.random() * 5 + 1; //random generates a no. b/w 0 and 1...+1 is to include 1 as well...required value is supposed to be between 1 and 5.
         return (int) random; //loses the point part.
     }
 }

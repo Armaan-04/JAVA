@@ -6,7 +6,7 @@ import java.util.concurrent.TimeUnit;
 
 public class MultiThreadExecutor {
     public static void main(String[] args) {
-        try (ExecutorService service = Executors.newFixedThreadPool(5)) {
+        try (ExecutorService service = Executors.newFixedThreadPool(5)) {//creating an executor service.
             for (int i = 0; i < 10; i++) {
                 SleepTask task = new SleepTask();
                 service.submit(task);
