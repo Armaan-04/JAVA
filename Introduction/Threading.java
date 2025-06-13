@@ -1,3 +1,5 @@
+package Introduction;
+
 public class Threading { //Threading is used for multiple sequences of execution.
     public static void main(String[] args){
         System.out.println("Thread id: " + Thread.currentThread().getId()); //currentThread tells us which thread is being executed

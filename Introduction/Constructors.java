@@ -1,4 +1,5 @@
-import ClassFolder.rectangle2;
+package Introduction;
+import Introduction.ClassFolder.rectangle2;
 
 public class Constructors {
     public static void main(String[] args)  {

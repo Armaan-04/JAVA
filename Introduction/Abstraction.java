@@ -1,4 +1,5 @@
-import ClassFolder.rectangle3;
+package Introduction;
+import Introduction.ClassFolder.rectangle3;
 
 public class Abstraction {
     public static void main(String[] args)  {

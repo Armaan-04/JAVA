@@ -1,5 +1,6 @@
-import ClassFolder.rectangle3;
-import ClassFolder.shape;
+package Introduction;
+import Introduction.ClassFolder.rectangle3;
+import Introduction.ClassFolder.shape;
 
 public class Inheritance {
     public static void main(String[] args){

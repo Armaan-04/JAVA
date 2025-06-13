@@ -1,4 +1,4 @@
-package ClassFolder;
+package Introduction.ClassFolder;
 
 //public class circle implements shape2{ (in case of interface)
 public class circle extends shape { //extends here means shape is the parent class of circle

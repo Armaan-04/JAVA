@@ -1,4 +1,4 @@
-package ClassFolder;
+package Introduction.ClassFolder;
 
                      //ENCAPSULATION-encapsules methods under itself
 public class Rectangle {
