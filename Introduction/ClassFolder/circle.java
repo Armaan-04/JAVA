@@ -16,6 +16,5 @@ public class circle extends shape { //extends here means shape is the parent cla
    @Override
     public void printArea(){
         System.out.println("The area of the circle is: " + (2 * PI * radius));
-
     }
 }
