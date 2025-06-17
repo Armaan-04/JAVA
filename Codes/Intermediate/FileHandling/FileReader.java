@@ -1,4 +1,4 @@
-package Codes.Intermediate;
+package Codes.Intermediate.FileHandling;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Scanner;

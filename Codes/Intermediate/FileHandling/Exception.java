@@ -1,4 +1,4 @@
-package Codes.Intermediate;
+package Codes.Intermediate.FileHandling;
 import java.util.Scanner;
 
 public class Exception {
