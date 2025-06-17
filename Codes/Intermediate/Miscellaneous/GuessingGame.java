@@ -1,4 +1,4 @@
-package Codes.Intermediate;
+package Codes.Intermediate.Miscellaneous;
 import java.util.Scanner;
 
 public class GuessingGame {

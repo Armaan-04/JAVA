@@ -1,4 +1,4 @@
-package Codes.Intermediate;
+package Codes.Intermediate.Miscellaneous;
 
 public class Calculator {
     public int add(int first , int second){

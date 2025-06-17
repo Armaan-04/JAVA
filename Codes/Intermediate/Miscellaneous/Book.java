@@ -1,4 +1,4 @@
-package Codes.Intermediate;
+package Codes.Intermediate.Miscellaneous;
 
 public class Book {
    static int totalNoOfBooks;
