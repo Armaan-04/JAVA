@@ -1,4 +1,4 @@
-package Codes.Intermediate;
+package Codes.Intermediate.Arrays;
 import java.util.Scanner;
 
 public class NumberOfOccurences {

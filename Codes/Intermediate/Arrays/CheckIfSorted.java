@@ -1,4 +1,4 @@
-package Codes.Intermediate;
+package Codes.Intermediate.Arrays;
 
 public class CheckIfSorted {
     public static void main(String[] args) {

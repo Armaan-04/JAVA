@@ -1,4 +1,4 @@
-package Codes.Intermediate;
+package Codes.Intermediate.Arrays;
 
 public class ArraySumAndAverage {
     public static void main(String[] args) {
