@@ -1,4 +1,4 @@
-package Codes;
+package Codes.BasicCodes;
 import java.util.Scanner;
 
 //Check if the number is even or odd using bitwise operator.

@@ -1,4 +1,4 @@
-package Codes;
+package Codes.BasicCodes;
 import java.util.Scanner;
 
 public class FibonacciSeries {
