@@ -1,4 +1,4 @@
-package Codes.Intermediate.Fly;
+package Codes.Intermediate.OOPS.Fly;
 
 public class TestFly {
     public static void main(String[] args) {

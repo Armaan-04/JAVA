@@ -1,4 +1,4 @@
-package Codes.Intermediate.Bank;
+package Codes.Intermediate.OOPS.Bank;
 
 public class BankAccount {
     private String accountNumber;

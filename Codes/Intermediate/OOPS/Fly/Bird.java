@@ -1,4 +1,4 @@
-package Codes.Intermediate.Fly;
+package Codes.Intermediate.OOPS.Fly;
 
 public abstract class Bird implements Flyable{
     private final String breed;

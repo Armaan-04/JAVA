@@ -1,4 +1,4 @@
-package Codes.Intermediate.shapes2;
+package Codes.Intermediate.OOPS.shapes2;
 
 public class TestShapes {
     public static void main(String[] args) {

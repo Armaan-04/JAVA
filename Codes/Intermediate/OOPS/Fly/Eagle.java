@@ -1,4 +1,4 @@
-package Codes.Intermediate.Fly;
+package Codes.Intermediate.OOPS.Fly;
 
 public class Eagle extends Bird{
 

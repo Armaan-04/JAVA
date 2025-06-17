@@ -1,4 +1,4 @@
-package Codes.Intermediate.Employee;
+package Codes.Intermediate.OOPS.Employee;
 
 public class TestEmployee {
     public static void main(String[] args) {

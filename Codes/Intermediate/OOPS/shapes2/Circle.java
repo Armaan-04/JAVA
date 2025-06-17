@@ -1,4 +1,4 @@
-package Codes.Intermediate.shapes2;
+package Codes.Intermediate.OOPS.shapes2;
 
 public class Circle extends Shape {
     private final double radiusInCms;

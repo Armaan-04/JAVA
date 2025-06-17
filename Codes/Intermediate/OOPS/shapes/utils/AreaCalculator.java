@@ -1,6 +1,6 @@
-package Codes.Intermediate.shapes.utils;
-import Codes.Intermediate.shapes.geometry.Circle;
-import Codes.Intermediate.shapes.geometry.Rectangle;
+package Codes.Intermediate.OOPS.shapes.utils;
+import Codes.Intermediate.OOPS.shapes.geometry.Circle;
+import Codes.Intermediate.OOPS.shapes.geometry.Rectangle;
 
 public class AreaCalculator {
     public static void main(String[] args){

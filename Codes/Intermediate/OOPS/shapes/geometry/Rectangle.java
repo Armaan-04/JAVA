@@ -1,4 +1,4 @@
-package Codes.Intermediate.shapes.geometry;
+package Codes.Intermediate.OOPS.shapes.geometry;
 
 public class Rectangle {
     public int length;

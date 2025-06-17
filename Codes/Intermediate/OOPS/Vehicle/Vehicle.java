@@ -1,4 +1,4 @@
-package Codes.Intermediate.Vehicle;
+package Codes.Intermediate.OOPS.Vehicle;
 
 public class Vehicle {
      public void service(){
