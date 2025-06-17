@@ -1,4 +1,4 @@
-package Codes.Intermediate;
+package Codes.Intermediate.Strings;
 
 public class ConcatenateStrings{
 
