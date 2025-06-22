@@ -13,7 +13,7 @@ public class Calculator implements ActionListener {
     static int operator = 0;
 
 
-    Calculator() {
+        Calculator() {
         f = new JFrame("My Calculator");
         f.setVisible(true);
         f.setLayout(null);
@@ -119,7 +119,7 @@ public class Calculator implements ActionListener {
 
 
     public static void main(String[] args) {
-        new Calculator();
+       new Calculator();
     }
 
     @Override

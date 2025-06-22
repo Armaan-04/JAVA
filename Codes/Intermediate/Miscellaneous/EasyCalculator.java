@@ -1,6 +1,6 @@
 package Codes.Intermediate.Miscellaneous;
 
-public class Calculator {
+public class EasyCalculator {
     public int add(int first , int second){
         return first + second;
     }
@@ -14,7 +14,7 @@ public class Calculator {
     }
 
     public static void main(String[] args){
-        Calculator calc = new Calculator();
+        EasyCalculator calc = new EasyCalculator();
         System.out.println(calc.add(5,6));
         System.out.println(calc.add(2,4,7));
         System.out.println(calc.add(5.6,3.2));
